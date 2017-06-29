@@ -2,11 +2,11 @@ package com.qainfotech.tap.training.snl.api;
 
 /**
  *
- * @author Ramandeep 
+ * @author Ramandeep
  */
-public class GameInProgressException extends Exception{
-    
-    public GameInProgressException(){
-        super("New player cannot join since the game has started");
-    }
+public class GameInProgressException extends Exception {
+
+	public GameInProgressException() {
+		super("New player cannot join since the game has started");
+	}
 }
