@@ -1,15 +1,13 @@
 package com.qainfotech.tap.training.snl.api;
 
-import java.util.UUID;
-import java.util.Random;
-import java.io.IOException;
 import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.io.UnsupportedEncodingException;
-import java.nio.file.Files;
-import java.nio.file.Paths;
+import java.util.Random;
+import java.util.UUID;
 
-import org.json.JSONObject;
 import org.json.JSONArray;
+import org.json.JSONObject;
 
 /**
  *
